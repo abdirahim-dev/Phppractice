@@ -6,10 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    //Multi-dimensional Array
 
     <?php
-
+         //Multi-dimensional Array
 $student = array (
     array ("Mohamed", 1990, "Hodan", "0608124390"),
     array ("Ahmed", 2001, "Yaaqshiid", "0608124391"),
